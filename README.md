@@ -1,3 +1,3 @@
 # bookbot
 
-This is a project from [here](boot.dev)
+This is a first project from [here](boot.dev)
